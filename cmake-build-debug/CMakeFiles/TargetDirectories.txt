@@ -1,3 +1,0 @@
-D:/Doc/Project/zhang/code/auto-deployment/cmake-build-debug/CMakeFiles/auto_deployment.dir
-D:/Doc/Project/zhang/code/auto-deployment/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Doc/Project/zhang/code/auto-deployment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
